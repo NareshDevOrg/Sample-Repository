@@ -1,0 +1,4 @@
+your name: naresh
+your computer name: naresh-VM
+your username: naresh
+password: admin
