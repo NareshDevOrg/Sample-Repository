@@ -1,0 +1,16 @@
+sudo apt-get install openssh-server openssh-client
+
+192.168.235.129
+
+
+your name: naresh
+your computer name: naresh-VM
+your username: naresh
+password: admin
+
+
+vm credentails
+
+fullname beerenaresh
+username naresh
+password:naresh
